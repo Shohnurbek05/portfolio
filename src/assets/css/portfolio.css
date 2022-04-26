@@ -75,10 +75,29 @@
         width: 292px;
         height: 220px;
     }
+    .card .overflow a {
+        padding: 12px 20px;
+    }
 }
 
 @media screen and (max-width: 425px) {
     .box {
         justify-content: center;
+    }
+    .card .overflow a {
+        padding: 10px 15px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .card .overflow .tags {
+        gap: 15px;
+    }
+    .card .overflow a {
+        padding: 5px 10px;
+    }
+    .card i {
+        font-size: 15px;
+        margin-right: 5px;
     }
 }
