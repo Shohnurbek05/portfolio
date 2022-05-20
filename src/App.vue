@@ -1,16 +1,16 @@
 <template>
   <div class="app">
-    <sidebar/>
+    <sidebar />
     <transition name="router-anim">
-      <router-view/>
+      <router-view />
     </transition>
   </div>
 </template>
 
 
 <script setup>
-import './assets/css/main.css'
-import sidebar from './components/sidebar.vue'
+import "./assets/css/main.css";
+import sidebar from "./components/sidebar.vue";
 </script>
 
 
@@ -29,7 +29,7 @@ import sidebar from './components/sidebar.vue'
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Fira sans', sans-serif;
+  font-family: "Fira sans", sans-serif;
 }
 
 body {

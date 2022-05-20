@@ -24,6 +24,36 @@
           </div>
         </div>
         <div class="card">
+          <img src="../assets/images/12.png" alt="">
+          <div class="overflow">
+            <h1>Center Logistic</h1>
+            <div class="tags">
+              <a href="https://centerlogistic.netlify.app/#/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Saloxiddin701/CenterLgistic"><i class="bi bi-github"></i> SOURCE</a>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <img src="../assets/images/10.png" alt="">
+          <div class="overflow">
+            <h1>Castaway</h1>
+            <div class="tags">
+              <a href="https://castaway-vue.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Saloxiddin701/Castaway"><i class="bi bi-github"></i> SOURCE</a>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <img src="../assets/images/11.png" alt="">
+          <div class="overflow">
+            <h1>Alibaraka</h1>
+            <div class="tags">
+              <a href="https://alibaraka-vue.netlify.app/#/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Saloxiddin701/alibaraka"><i class="bi bi-github"></i> SOURCE</a>
+            </div>
+          </div>
+        </div>
+        <div class="card">
           <img src="../assets/images/3.png" alt="">
           <div class="overflow">
             <h1>Irorun</h1>
