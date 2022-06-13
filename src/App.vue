@@ -1,5 +1,5 @@
 <template>
-  <Loader v-if="!isloaded"/>
+  <Loader v-if="!isLoaded"/>
   <div class="app">
     <Sidebar />
     <transition name="router-anim">
@@ -17,7 +17,7 @@ import Loader from "./components/Loader.vue";
 export default {
   data() {
     return {
-      isloaded: false
+      isLoaded: false
     }
   },
   components: { Sidebar, Loader },
@@ -27,7 +27,7 @@ export default {
   mounted() {
     document.onreadystatechange = () => {
       if (document.readyState == 'complete') {
-        this.isloaded = true
+        this.isLoaded = true
       }
     }
     document.body.style.overflow = 'auto'
