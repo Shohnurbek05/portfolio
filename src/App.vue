@@ -1,6 +1,7 @@
 <template>
+  <Loader v-if="!isloaded"/>
   <div class="app">
-    <sidebar />
+    <Sidebar />
     <transition name="router-anim">
       <router-view />
     </transition>
@@ -8,9 +9,30 @@
 </template>
 
 
-<script setup>
+<script>
 import "./assets/css/main.css";
-import sidebar from "./components/sidebar.vue";
+import Sidebar from "./components/sidebar.vue";
+import Loader from "./components/Loader.vue";
+
+export default {
+  data() {
+    return {
+      isloaded: false
+    }
+  },
+  components: { Sidebar, Loader },
+  created() {
+    document.body.style.overflow = 'hidden'
+  },
+  mounted() {
+    document.onreadystatechange = () => {
+      if (document.readyState == 'complete') {
+        this.isloaded = true
+      }
+    }
+    document.body.style.overflow = 'auto'
+  }
+}
 </script>
 
 

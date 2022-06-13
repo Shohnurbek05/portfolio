@@ -126,12 +126,31 @@
       </div>
     </div>
   </div>
+  <Loader v-if="isLoaded"/>
 </template>
 
 <script>
 import '../assets/css/portfolio.css'
+import Loader from "../components/Loader.vue";
 
 export default {
-  name: "PortfolioView"
+  name: "PortfolioView",
+  data() {
+    return {
+      isLoaded: false
+    }
+  },
+  created() {
+    document.body.style.overflow = 'hidden'
+  },
+  mounted() {
+    document.onreadystatechange = () => {
+      if (document.readyState == 'complete') {
+        this.isloaded = true
+      }
+    }
+    document.body.style.overflow = 'auto'
+  },
+  components: { Loader }
 }
 </script>
