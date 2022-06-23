@@ -123,6 +123,26 @@
             </div>
           </div>
         </div>
+        <div class="card">
+          <img src="../assets/images/13.png" alt="">
+          <div class="overflow">
+            <h1>VueMovies</h1>
+            <div class="tags">
+              <a href="https://movie-app-vue1.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Saloxiddin701/Movie-app"><i class="bi bi-github"></i> SOURCE</a>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <img src="../assets/images/14.png" alt="">
+          <div class="overflow">
+            <h1>Login-Register</h1>
+            <div class="tags">
+              <a href="https://login-register-vue1.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Saloxiddin701/vue-auth"><i class="bi bi-github"></i> SOURCE</a>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
