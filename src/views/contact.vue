@@ -34,7 +34,7 @@ export default {
   },
   methods: {
     submit() {
-      if (this.fullName === '' || this.number === '' || this.email || this.message) {
+      if (this.fullName === '' && this.number === '' && this.email && this.message) {
         alert('Sign in your data')
         return
       } else {
