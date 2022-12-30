@@ -12,8 +12,8 @@
         </p>
       </div>
       <div class="buttons">
-        <a href="https://t.me/Saloxweb" class="btn">visit Telegram</a>
-        <a href="https://github.com/saloxiddin04" class="btn">visit GitHub</a>
+        <a href="https://t.me/shohnurbek_05" class="btn">visit Telegram</a>
+        <a href="https://github.com/Shohnurbek05" class="btn">visit GitHub</a>
       </div>
     </div>
   </div>
