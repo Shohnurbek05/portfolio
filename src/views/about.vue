@@ -22,8 +22,8 @@
             </div>
           </div>
           <div class="right-right">
-            <h3>Saloxiddin</h3>
-            <h3>27.01.2004</h3>
+            <h3>Shohnurbek</h3>
+            <h3>13.03.2005</h3>
             <h3>Tashkent</h3>
           </div>
         </div>

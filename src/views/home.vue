@@ -2,13 +2,11 @@
   <div class="home">
     <div class="container">
       <div class="text">
-        <h1>Hi I am Shohnurbek
+        <h1>Hi, I am Shohnurbek
           <span class="typed-text">{{ typeValue }}</span>
           <span class="cursor" :class="{ 'typing': typeStatus }">&nbsp;</span>
         </h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus delectus impedit quas quasi tempora
-          voluptates. Alias aliquam architecto, aspernatur assumenda dicta modi, molestiae nobis obcaecati perspiciatis
-          possimus quo repellendus sapiente!
+        <p> I am Shohnurbek Tojiboev, an enthusiastic software developer. My front-end and back-end skills are what make me passionate to pursue Computer and Engineering related fields. I also love Mathematcis. As for hobbies, playing football is what makes me happy. This game is full of emotions and my childhood cannot be imaged without it.
         </p>
       </div>
       <div class="buttons">
