@@ -30,7 +30,7 @@ export default {
     return {
       typeValue: '',
       typeStatus: false,
-      typeArray: ['Frontend developer'],
+      typeArray: ['Fullstack developer'],
       typingSpeed: 200,
       erasingSpeed: 100,
       newTextDelay: 2000,
