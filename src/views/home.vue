@@ -2,7 +2,7 @@
   <div class="home">
     <div class="container">
       <div class="text">
-        <h1>Hi i'm, Salokhiddin
+        <h1>Hi i'm, Shohnurbek
           <span class="typed-text">{{ typeValue }}</span>
           <span class="cursor" :class="{ 'typing': typeStatus }">&nbsp;</span>
         </h1>
