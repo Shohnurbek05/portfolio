@@ -34,10 +34,10 @@ export default {
   },
   methods: {
     submit() {
-      if (this.fullName === '' && this.number === '' && this.email && this.message) {
+      if (this.fullName === '' || this.number === '' || this.email || this.message) {
         alert('Sign in your data')
         return
-      }
+      } else {
       const fullMessage = `Name: ${this.fullName} %0ANumber: ${this.number} %0AEmail: ${this.email} %0AMessage: ${this.message} %0A`
       axios.post(`https://api.telegram.org/bot${this.token}/sendMessage?chat_id=${this.chatId}&text=${fullMessage}`)
           .then(response => {
@@ -48,7 +48,7 @@ export default {
             this.message = ''
           }, error => {
             console.log(error)
-          })
+          }) };
     }
   }
 }
