@@ -6,60 +6,60 @@
         <div class="card">
           <img src="../assets/images/16.png" alt="">
           <div class="overflow">
-            <h1>Yanki ecommerce</h1>
+            <h1>Bio Lab</h1>
             <div class="tags">
-              <a href="https://testecommercetest.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
-              <a href="https://github.com/saloxiddin04/ecommerce_front"><i class="bi bi-github"></i> SOURCE</a>
+              <a href="https://shohnurbek1.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Shohnurbek05/BioLab"><i class="bi bi-github"></i> SOURCE</a>
             </div>
           </div>
         </div>
         <div class="card">
           <img src="../assets/images/15.png" alt="">
           <div class="overflow">
-            <h1>Perfect Doors</h1>
+            <h1>Porten</h1>
             <div class="tags">
-              <a href="https://keen-pony-271b19.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
-              <a href="https://github.com/saloxiddin04/perfect_doors"><i class="bi bi-github"></i> SOURCE</a>
+              <a href="https://shohnurbek2.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Shohnurbek05/Porten"><i class="bi bi-github"></i> SOURCE</a>
             </div>
           </div>
         </div>
         <div class="card">
           <img src="../assets/images/1.png" alt="">
           <div class="overflow">
-            <h1>SkyBox</h1>
+            <h1>Komola</h1>
             <div class="tags">
-              <a href="https://skybox-cloud.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
-              <a href="https://github.com/saloxiddin04/Skybox"><i class="bi bi-github"></i> SOURCE</a>
+              <a href="https://shohnurbek3.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Shohnurbek05/Komola"><i class="bi bi-github"></i> SOURCE</a>
             </div>
           </div>
         </div>
         <div class="card">
           <img src="../assets/images/2.png" alt="">
           <div class="overflow">
-            <h1>Innovated</h1>
+            <h1>Polar</h1>
             <div class="tags">
-              <a href="https://innovated-demo.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
-              <a href="https://github.com/saloxiddin04/innovated"><i class="bi bi-github"></i> SOURCE</a>
+              <a href="https://shohnurbek4.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Shohnurbek05/Polar"><i class="bi bi-github"></i> SOURCE</a>
             </div>
           </div>
         </div>
         <div class="card">
           <img src="../assets/images/12.png" alt="">
           <div class="overflow">
-            <h1>Center Logistic</h1>
+            <h1>Linked Tech</h1>
             <div class="tags">
-              <a href="https://centerlogistic.netlify.app/#/"><i class="bi bi-globe"></i> DEMO</a>
-              <a href="https://github.com/saloxiddin04/CenterLgistic"><i class="bi bi-github"></i> SOURCE</a>
+              <a href="https://shohnurbek5.netlify.app/#/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Shohnurbek05/LinkedTech"><i class="bi bi-github"></i> SOURCE</a>
             </div>
           </div>
         </div>
         <div class="card">
           <img src="../assets/images/10.png" alt="">
           <div class="overflow">
-            <h1>Castaway</h1>
+            <h1>Locus</h1>
             <div class="tags">
-              <a href="https://castaway-vue.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
-              <a href="https://github.com/saloxiddin04/Castaway"><i class="bi bi-github"></i> SOURCE</a>
+              <a href="https://shohnurbek6.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Shohnurbek05/Locus"><i class="bi bi-github"></i> SOURCE</a>
             </div>
           </div>
         </div>
