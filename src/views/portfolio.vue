@@ -66,100 +66,100 @@
         <div class="card">
           <img src="../assets/images/11.png" alt="">
           <div class="overflow">
-            <h1>Alibaraka</h1>
+            <h1>Slider</h1>
             <div class="tags">
-              <a href="https://alibaraka-vue.netlify.app/#/"><i class="bi bi-globe"></i> DEMO</a>
-              <a href="https://github.com/saloxiddin04/alibaraka"><i class="bi bi-github"></i> SOURCE</a>
+              <a href="https://shohnurbek7.netlify.app/#/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Shohnurbek05/slider"><i class="bi bi-github"></i> SOURCE</a>
             </div>
           </div>
         </div>
         <div class="card">
           <img src="../assets/images/3.png" alt="">
           <div class="overflow">
-            <h1>Irorun</h1>
+            <h1>Filter</h1>
             <div class="tags">
-              <a href="https://irorun-demo.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
-              <a href="https://github.com/saloxiddin04/Irorun"><i class="bi bi-github"></i> SOURCE</a>
+              <a href="https://shohnurbek8.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Shohnurbek05/filter"><i class="bi bi-github"></i> SOURCE</a>
             </div>
           </div>
         </div>
         <div class="card">
           <img src="../assets/images/4.png" alt="">
           <div class="overflow">
-            <h1>Portal</h1>
+            <h1>Parallax</h1>
             <div class="tags">
-              <a href="https://portal-facebook.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
-              <a href="https://github.com/saloxiddin04/Portal"><i class="bi bi-github"></i> SOURCE</a>
+              <a href="https://shohnurbek9.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Shohnurbek05/Parallax"><i class="bi bi-github"></i> SOURCE</a>
             </div>
           </div>
         </div>
         <div class="card">
           <img src="../assets/images/5.png" alt="">
           <div class="overflow">
-            <h1>OJJO wedding</h1>
+            <h1>Plus Shop</h1>
             <div class="tags">
-              <a href="https://ojjo-wedding.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
-              <a href="https://github.com/saloxiddin04/Ojjo"><i class="bi bi-github"></i> SOURCE</a>
+              <a href="https://shohnurbek10.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Shohnurbek05/Plus-shop"><i class="bi bi-github"></i> SOURCE</a>
             </div>
           </div>
         </div>
         <div class="card">
           <img src="../assets/images/6.png" alt="">
           <div class="overflow">
-            <h1>SportGeeks</h1>
+            <h1>Tabs</h1>
             <div class="tags">
-              <a href="https://sportgeeks.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
-              <a href="#"><i class="bi bi-github"></i> SOURCE</a>
+              <a href="https://shohnurbek11.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Shohnurbek05/tabs"><i class="bi bi-github"></i> SOURCE</a>
             </div>
           </div>
         </div>
         <div class="card">
           <img src="../assets/images/7.png" alt="">
           <div class="overflow">
-            <h1>Personal Portfolio</h1>
+            <h1>Change Background</h1>
             <div class="tags">
-              <a href="https://saloxdev.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
-              <a href="https://github.com/saloxiddin04/first-portfolio"><i class="bi bi-github"></i> SOURCE</a>
+              <a href="https://shohnurbek12.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Shohnurbek05/change-bg"><i class="bi bi-github"></i> SOURCE</a>
             </div>
           </div>
         </div>
         <div class="card">
           <img src="../assets/images/8.png" alt="">
           <div class="overflow">
-            <h1>Staffix</h1>
+            <h1>To do list</h1>
             <div class="tags">
-              <a href="https://staffix.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
-              <a href="#"><i class="bi bi-github"></i> SOURCE</a>
+              <a href="https://shohnurbek13.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Shohnurbek05/To-do-list"><i class="bi bi-github"></i> SOURCE</a>
             </div>
           </div>
         </div>
         <div class="card">
           <img src="../assets/images/9.png" alt="">
           <div class="overflow">
-            <h1>DJ Bright</h1>
+            <h1>Timer</h1>
             <div class="tags">
-              <a href="https://djbright.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
-              <a href="https://github.com/saloxiddin04/DJ-Bright"><i class="bi bi-github"></i> SOURCE</a>
+              <a href="https://shohnurbek14.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Shohnurbek05/timer"><i class="bi bi-github"></i> SOURCE</a>
             </div>
           </div>
         </div>
         <div class="card">
           <img src="../assets/images/13.png" alt="">
           <div class="overflow">
-            <h1>VueMovies</h1>
+            <h1>Form Doggy</h1>
             <div class="tags">
-              <a href="https://movie-app-vue1.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
-              <a href="https://github.com/saloxiddin04/Movie-app"><i class="bi bi-github"></i> SOURCE</a>
+              <a href="https://shohnurbek15.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Shohnurbek05/form-doggy"><i class="bi bi-github"></i> SOURCE</a>
             </div>
           </div>
         </div>
         <div class="card">
           <img src="../assets/images/14.png" alt="">
           <div class="overflow">
-            <h1>Login-Register</h1>
+            <h1>Burger</h1>
             <div class="tags">
-              <a href="https://login-register-vue1.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
-              <a href="https://github.com/saloxiddin04/vue-auth"><i class="bi bi-github"></i> SOURCE</a>
+              <a href="https://shohnurbek16.netlify.app/"><i class="bi bi-globe"></i> DEMO</a>
+              <a href="https://github.com/Shohnurbek05/burger"><i class="bi bi-github"></i> SOURCE</a>
             </div>
           </div>
         </div>
